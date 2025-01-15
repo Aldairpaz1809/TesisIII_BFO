@@ -1,0 +1,6 @@
+&bands
+    prefix="bifeo3"
+    outdir = "/home/aldair1809/Documentos/QE/4BFO/temp_tipoA/bands"
+    filband="bifeo3.bandas_2"
+    spin_component=2
+/

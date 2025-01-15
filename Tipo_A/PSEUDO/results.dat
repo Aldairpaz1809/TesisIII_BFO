@@ -1,0 +1,9 @@
+Pseudopotencial    Ecutwfc    Energía Total (Ry)    Tiempo Total (s)    Iteraciones
+o_pbe_v1.2.uspp.F.UPF    25        PWSCF are:    0
+o_pbe_v1.2.uspp.F.UPF    30        PWSCF are:    0
+o_pbe_v1.2.uspp.F.UPF    35            0
+o_pbe_v1.2.uspp.F.UPF    40            0
+o_pbesol_v1.2.uspp.F.UPF    25            0
+o_pbesol_v1.2.uspp.F.UPF    30            0
+o_pbesol_v1.2.uspp.F.UPF    35            0
+o_pbesol_v1.2.uspp.F.UPF    40            0

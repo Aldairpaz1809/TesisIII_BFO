@@ -1,0 +1,11 @@
+&PROJWFC
+    prefix="bifeo3"
+    outdir='/home/aldair1809/Documentos/QE/4BFO/temp_tipoA/p-dos'
+    filpdos="bifeo3_dat.dat"
+    filproj="bifeo3.proy.dos"
+    Emin=-10
+    DeltaE=0.01
+    Emax=32
+    degauss=0.01
+    ngauss=0
+/

@@ -1,0 +1,52 @@
+
+     Program POST-PROC v.6.7MaX starts on 14Dec2024 at 22:29:19 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on     6 processors
+
+     MPI processes distributed on     1 nodes
+     R & G space division:  proc/nbgrp/npool/nimage =       6
+
+     Reading xml data from directory:
+
+     /home/aldair1809/Documentos/QE/4BFO/temp_tipoA/charge_density/bifeo3.save/
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+
+     Parallelization info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Min         400     198     57                39001    13755    2108
+     Max         402     202     59                39005    13763    2113
+     Sum        2407    1201    349               234021    82543   12667
+
+
+     Check: negative core charge=   -0.000014
+
+     negative rho (up, down):  1.205E-01 1.205E-01
+
+     Calling punch_plot, plot_num =   0
+     Writing data to file  bifeo3.rho.dat
+     Message from routine chdens:
+     output format not set, exiting
+
+     POST-PROC    :      5.20s CPU      5.85s WALL
+
+
+   This run was terminated on:  22:29:25  14Dec2024            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

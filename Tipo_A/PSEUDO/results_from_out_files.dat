@@ -1,0 +1,19 @@
+Pseudopotencial    Ecutwfc    Energía Total (Ry)    Tiempo Total (s)    Iteraciones
+pseudo_o_pbesol_v1.2.uspp.F.UPF_ecutwfc_10.out    10.0000    -2971.94339933       2m33.09s     17
+pseudo_o_pbesol_v1.2.uspp.F.UPF_ecutwfc_12.out    12.0000    -3070.98894222       3m22.55s     18
+pseudo_o_pbesol_v1.2.uspp.F.UPF_ecutwfc_15.out    15.0000    -3141.17566822       6m45.35s     27
+pseudo_o_pbesol_v1.2.uspp.F.UPF_ecutwfc_18.out    18.0000    -3171.53521545       6m42.87s     20
+pseudo_o_pbesol_v1.2.uspp.F.UPF_ecutwfc_20.out    20.0000    -3180.09566410       7m36.45s     20
+pseudo_o_pbesol_v1.2.uspp.F.UPF_ecutwfc_25.out                0
+pseudo_o_pbesol_v1.2.uspp.F.UPF_ecutwfc_30.out                0
+pseudo_o_pbesol_v1.2.uspp.F.UPF_ecutwfc_35.out                0
+pseudo_o_pbesol_v1.2.uspp.F.UPF_ecutwfc_40.out                0
+pseudo_o_pbe_v1.2.uspp.F.UPF_ecutwfc_10.out    10.0000    -2976.23881150       2m22.13s     19
+pseudo_o_pbe_v1.2.uspp.F.UPF_ecutwfc_12.out    12.0000    -3075.21973315       3m32.13s     20
+pseudo_o_pbe_v1.2.uspp.F.UPF_ecutwfc_15.out    15.0000    -3145.25580913       7m 2.14s     27
+pseudo_o_pbe_v1.2.uspp.F.UPF_ecutwfc_18.out    18.0000    -3175.45574621       7m13.38s     21
+pseudo_o_pbe_v1.2.uspp.F.UPF_ecutwfc_20.out    20.0000    -3183.98278403       8m23.77s     22
+pseudo_o_pbe_v1.2.uspp.F.UPF_ecutwfc_25.out    25.0000            0
+pseudo_o_pbe_v1.2.uspp.F.UPF_ecutwfc_30.out    30.0000            0
+pseudo_o_pbe_v1.2.uspp.F.UPF_ecutwfc_35.out                0
+pseudo_o_pbe_v1.2.uspp.F.UPF_ecutwfc_40.out                0

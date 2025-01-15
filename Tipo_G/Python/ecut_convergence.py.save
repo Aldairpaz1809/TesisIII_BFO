@@ -1,0 +1,5 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+file="/home/aldair1809/OneDrive/Tesis3/QE/4BFO/SCF-ecut-kpoint_convergence/PBE/results.dat"
+

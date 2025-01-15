@@ -1,0 +1,8 @@
+&inputpp
+prefix="bifeo3"
+outdir="/home/aldair1809/Documentos/QE/4BFO/temp/charge_density"
+filplot="bifeo3.rho.dat"
+plot_num=0
+/
+&plot
+/
